@@ -1,0 +1,59 @@
+/* General page styling */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main title styling */
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+    margin: 0;
+}
+
+/* Section title styling */
+h2 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 2em;
+    color: #444;
+}
+
+/* Paragraph styling for lyrics */
+p {
+    text-align: center;
+    font-size: 1.9em;
+    margin: 20px auto;
+    line-height: 1.8;
+    max-width: 800px;
+}
+
+/* Strong emphasis for certain lyrics */
+strong {
+    font-weight: 700;
+    font-size: 1.3em;
+    color:black;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    background-color:blue;
+    color: white;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+
